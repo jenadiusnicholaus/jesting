@@ -1,2 +1,3 @@
-# jesting
-This repo is meant to learn and make testing in using jest
+# jesting-project
+
+This repo is meant to learn and make testing in project using jest.

@@ -1,0 +1,23 @@
+{
+  "name": "jesting",
+  "version": "1.0.0",
+  "description": "This repo is meant to learn and make testing in project using jest.",
+  "main": "index.js",
+  "scripts": {
+   "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenadiusnicholaus/jesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenadiusnicholaus/jesting/issues"
+  },
+  "homepage": "https://github.com/jenadiusnicholaus/jesting#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
